@@ -1,0 +1,2 @@
+# curiosity--project-chimera--idle-cycle-capitalization
+Launch a background meta-mission that consumes idle cycles not with random speculation, but with systematic analysis. Task: 1) Parse all past trades and external data feeds for micro-patterns. 2) Use these to generate and back-test a suite of ultra-low-capital, high-frequency tactical scripts for exchanges like Pump.fun or low-timeframe DEX arbitra
